@@ -10,7 +10,7 @@
 6、实现 空调双温区控制 : 自定义 QuickTemperatureList 垂直温度选择器（16°C-32°C），当前选中项高亮放大，相邻项按距离递减字号与透明度(opacity 1→0.6→0.5→0.3), 支持惯性滚动(flickDeceleration) 与 movementEnded 回调  
 7、实现 空调双温区控制 ：自定义 QuickTemperatureList 垂直温度选择器（16°C-32°C），当前选中项高亮放大，相邻项按距离递减字号与透明度（opacity 1→0.6→0.5→0.3），支持惯性滚动（ flickDeceleration ）与 movementEnded 回调  
 
-## 效果图  
+## 部分界面展示  
 
 ![menu](./show_result/menu.png)
 
